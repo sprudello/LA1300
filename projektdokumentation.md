@@ -2,7 +2,9 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Doughnut
+
+Herzig, Angelov, Eser, Veljkovic, *Burlet*
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -11,6 +13,8 @@
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
+
+
 
 ### 1.1 Ihr Projekt
 
