@@ -77,7 +77,8 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![Schach Diagramm](https://user-images.githubusercontent.com/110893245/203289894-11218cce-3de4-4aad-b521-826abbc6173b.png)
+
 
 ## 2 Planen
 
