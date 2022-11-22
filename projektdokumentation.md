@@ -18,7 +18,7 @@ Herzig, Angelov, Eser, Veljkovic, *Burlet*
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen kann.
 
 ### 1.2 User Stories
 
