@@ -61,16 +61,16 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |03.15|Programm wurde gestartet, König befindet sich auf Feld 2D, König angeklickt|Aufleuchtendes Feld angeklickt|König verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
 |03.16|Programm wurde gestartet|König angeklickt|Diese Fiegur kann nicht bewegt werden.|
 |03.17|Programm wurde gestartet, König befindet sich auf Feld 2D, König angeklickt|Nichtaufleuchtendes Feld angeklickt|König bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich".|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|04.||||
+|05.||||
+|06.||||
+|07.1||||
+|07.2||||
+|08.1||||
+|08.2||||
+|09.1||||
+|09.2||||
+|10.1||||
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -84,37 +84,37 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1.A|||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|1.A|06.12.2022|Angelov|||
+|1.B|06.12.2022|Angelov|||
+|1.C|06.12.2022|Angelov|||
+|2.A|06.12.2022|Herzig|||
+|2.B|06.12.2022|Herzig|||
+|2.C|06.12.2022|Herzig|||
+|3.A|13.12.2022|Burlet|||
+|3.B|13.12.2022|Burlet|||
+|3.C|13.12.2022|Burlet|||
+|4.A|06.12.2022|Eser|||
+|4.B|06.12.2022|Eser|||
+|4.C|06.12.2022|Eser|||
+|5.A|06.12.2022|Veljkovic|||
+|5.B|06.12.2022|Veljkovic|||
+|5.C|06.12.2022|Veljkovic|||
+|6.A|||||
+|6.B|||||
+|6.C|||||
+|7.A|||||
+|7.B|||||
+|7.C|||||
+|8.A|||||
+|8.B|||||
+|8.C|||||
+|9.A|||||
+|9.B|||||
+|9.C|||||
+|10.A|||||
+|10.B|||||
+|10.C|||||
+
 
 
 Total: 
