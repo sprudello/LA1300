@@ -24,13 +24,13 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-|01||| Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂|
-|02||||
-|03||||
-|04||||
-|05||||
-|06||||
-|07||||
+|01|Muss|Qualität|Als User möchte ich ein Spielbrett sehen.|
+|02|Muss|Funktion|Als User möchte ich, dass die Schachfiguren am richtigen Ort spawnen.|
+|03|Muss|Funktion|Als User möchte ich, dass ich die Spielfiguren richtig bewegen kann.|
+|04|Muss|Funktion|Als User möchte ich, dass ich gegnerfiguren, wenn ich auf sie drauf gehe, aus dem Spiel nehme|
+|05|Muss|Qualität|Als User möchte ich, dass die Spielfiguren die richtige Textur haben.|
+|06|Muss|Funktion|Als User möchte ich, nach den richtigen Schachregeln spielen.|
+|07|Muss|Funktion|Als User möchte ich, einstellen können, ob ich nach Zeit spielen möchte.|
 |08||||
 |09||||
 |10||||
