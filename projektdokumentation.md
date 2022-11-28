@@ -48,19 +48,19 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |03.2|Programm wurde gestartet, Bauer angeklickt|Nicht aufleuchtendes Feld angeklickt|Bauer bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich"|
 |03.3|Programm wurde gestartet, Turm befindet sich auf Feld A5, Turm angeklickt|Aufleuchtendes Feld angeklickt|Turm verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
 |03.4|Programm wurde gestartet|Turm angeklickt|Diese Figur kann nicht bewegt werden.|
-|03.4|Programm wurde gestartet, Turm befindet sich auf Feld A5, Turm angeklickt|Nichtaufleuchtendes Feld angeklickt|Turm bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich" |
-|03.5||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|03.5|Programm wurde gestartet, Turm befindet sich auf Feld A5, Turm angeklickt|Nichtaufleuchtendes Feld angeklickt|Turm bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich".|
+|03.6|Programm wurde gestartet, Springer befindet sich auf Feld 3H, Springer angeklickt|Aufleuchtendes Feld angeklickt|Springer verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
+|03.7|Programm wurde gestartet|Springer angeklickt|Diese Fiegur kann nicht bewegt werden.|
+|03.8|Programm wurde gestartet, Springer befindet sich auf Feld 3H, Springer angeklickt|Nichtaufleuchtendes Feld angeklickt|Springer bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich".|
+|03.9|Programm wurde gestartet, Pferd befindet sich auf Feld 3C, Turm angeklickt|Aufleuchtendes Feld angeklickt|Pferd verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
+|03.10|Programm wurde gestartet|Pferd angeklickt|Diese Fiegur kann nicht bewegt werden.|
+|03.11|Programm wurde gestartet, Pferd befindet sich auf Feld 3C, Springer angeklickt|Nichtaufleuchtendes Feld angeklickt|Pferd bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich".|
+|03.12|Programm wurde gestartet, Dame befindet sich auf Feld 4G, Dame angeklickt|Aufleuchtendes Feld angeklickt|Dame verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
+|03.13|Programm wurde gestartet|Dame angeklickt|Diese Fiegur kann nicht bewegt werden.|
+|03.14|Programm wurde gestartet, Dame befindet sich auf Feld 4G, Dame angeklickt|Nichtaufleuchtendes Feld angeklickt|Dame bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich".|
+|03.15|Programm wurde gestartet, König befindet sich auf Feld 2D, König angeklickt|Aufleuchtendes Feld angeklickt|König verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
+|03.16|Programm wurde gestartet|König angeklickt|Diese Fiegur kann nicht bewegt werden.|
+|03.17|Programm wurde gestartet, König befindet sich auf Feld 2D, König angeklickt|Nichtaufleuchtendes Feld angeklickt|König bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich".|
 |||||
 |||||
 |||||
