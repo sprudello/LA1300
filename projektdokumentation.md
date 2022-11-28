@@ -31,9 +31,9 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |05|Muss|Qualität|Als User möchte ich, dass die Spielfiguren die richtige Textur haben.|
 |06|Muss|Funktion|Als User möchte ich, nach den richtigen Schachregeln spielen.|
 |07|Muss|Funktion|Als User möchte ich, einstellen können, ob ich nach Zeit spielen möchte.|
-|08||||
-|09||||
-|10||||
+|08|Muss|Qualität|Als User möchte ich, entscheiden mit welcher Farbe ich spiele.|
+|09|Muss|Funktion|Als User möchte ich, mehr als eine Runde spielen.|
+|10|Kann|Funktion|Als User möchte ich, eine Spielzug rückgänig machen können.|
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
