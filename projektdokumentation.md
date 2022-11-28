@@ -4,7 +4,7 @@
 
 Doughnut
 
-Herzig, Angelov, Eser, Veljkovic, *Burlet*
+Herzig, Angelov, Eser, *Burlet*
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -31,7 +31,7 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |05|Muss|Qualität|Als User möchte ich, dass die Spielfiguren die richtige Textur haben.|
 |06|Muss|Funktion|Als User möchte ich, nach den richtigen Schachregeln spielen.|
 |07|Muss|Funktion|Als User möchte ich, einstellen können, ob ich nach Zeit spielen möchte.|
-|08|Muss|Qualität|Als User möchte ich, entscheiden mit welcher Farbe ich spiele.|
+|08|Kann|Qualität|Als User möchte ich angezeigt bekommen, wo ich mit meiner Figur hinfahren kann.|
 |09|Muss|Funktion|Als User möchte ich, mehr als eine Runde spielen.|
 |10|Kann|Funktion|Als User möchte ich, eine Spielzug rückgänig machen können.|
 
@@ -42,14 +42,14 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|1.1||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|01.1|Programm wurde gestartet.| |Schachbrett|
+|02.1|Programm wurde gestartet.| |Schachbrett mit Figuren am richtigen Ort.|
+|03.1|Programm wurde gestartet, Bauer angeklickt|Aufleuchtendes Feld angeklickt|Bauer verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
+|03.2|Programm wurde gestartet, Bauer angeklickt|Nicht aufleuchtendes Feld angeklickt|Bauer bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich"|
+|03.3|Programm wurde gestartet, Turm befindet sich auf Feld A5, Turm angeklickt|Aufleuchtendes Feld angeklickt|Turm verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
+|03.4|Programm wurde gestartet|Turm angeklickt|Diese Figur kann nicht bewegt werden.|
+|03.4|Programm wurde gestartet, Turm befindet sich auf Feld A5, Turm angeklickt|Nichtaufleuchtendes Feld angeklickt|Turm bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich" |
+|03.5||||
 |||||
 |||||
 |||||
