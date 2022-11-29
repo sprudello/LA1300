@@ -29,8 +29,8 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |03|Muss|Funktion|Als User möchte ich, dass ich die Spielfiguren richtig bewegen kann.|
 |04|Muss|Funktion|Als User möchte ich, dass ich gegnerfiguren, wenn ich auf sie drauf gehe, aus dem Spiel nehme|
 |05|Muss|Qualität|Als User möchte ich, dass die Spielfiguren die richtige Textur haben.|
-|06|Muss|Funktion|Als User möchte ich, nach den richtigen Schachregeln spielen.|
-|07|Muss|Funktion|Als User möchte ich, einstellen können, ob ich nach Zeit spielen möchte.|
+|06|Muss|Rand|Als User möchte ich, nach den richtigen Schachregeln spielen.|
+|07|Kann|Funktion|Als User möchte ich, einstellen können, ob ich nach Zeit spielen möchte.|
 |08|Kann|Qualität|Als User möchte ich angezeigt bekommen, wo ich mit meiner Figur hinfahren kann.|
 |09|Muss|Funktion|Als User möchte ich, mehr als eine Runde spielen.|
 |10|Kann|Funktion|Als User möchte ich, eine Spielzug rückgänig machen können.|
@@ -99,21 +99,21 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |5.A|06.12.2022|Veljkovic|||
 |5.B|06.12.2022|Veljkovic|||
 |5.C|06.12.2022|Veljkovic|||
-|6.A|||||
-|6.B|||||
-|6.C|||||
-|7.A|||||
-|7.B|||||
-|7.C|||||
-|8.A|||||
-|8.B|||||
-|8.C|||||
-|9.A|||||
-|9.B|||||
-|9.C|||||
-|10.A|||||
-|10.B|||||
-|10.C|||||
+|6.A|13.13.2022|Angelov|||
+|6.B|13.13.2022|Angelov|||
+|6.C|13.13.2022|Angelov|||
+|7.A|13.12.2022|Herzig|||
+|7.B|13.12.2022|Herzig|||
+|7.C|13.12.2022|Herzig|||
+|8.A|13.12.2022|Burlet|||
+|8.B|13.12.2022|Burlet|||
+|8.C|13.12.2022|Burlet|||
+|9.A|06.12.2022|Veljkovic|||
+|9.B|06.12.2022|Veljkovic|||
+|9.C|06.12.2022|Veljkovic|||
+|10.A|13.12.2022|Herzig|||
+|10.B|13.12.2022|Herzig|||
+|10.C|13.12.2022|Herzig|||
 
 
 
