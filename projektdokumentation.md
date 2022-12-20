@@ -144,4 +144,4 @@ jedoch sind die, die durchführbar sind OK von der Funktionalität. Die grösste
 
 ## 6 Auswerten
 
-[Lernbericht Eser, Herzig, Burlet](https://github.com/sprudello/LA1300/blob/main/Lernbericht%20Burlet%2C%20Herzig%20und%20Eser.md)
+[Lernbericht Eser, Herzig, Anelgov, Burlet](https://github.com/sprudello/LA1300/blob/main/Lernbericht%20Burlet%2C%20Herzig%20und%20Eser.md)
