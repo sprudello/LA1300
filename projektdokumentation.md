@@ -10,9 +10,12 @@ Herzig, Angelov, Eser, *Burlet*
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | Projektdoku IPE gmacht|
 |       | 0.0.2|Wir haben uns mit WinForms befasst. Sind dabei aber meist kläglich gescheitert.|
-|       | 1.0.0   |                                                              |
+|       |0.0.3|wir haben versucht einen 2D array zu visualisieren, was nicht funktioniert hat.|
+||0.0.4|Wir haben es mit buttons gemacht und haben ein 4x4 bauerschach gemacht.|
+||1.0.0|Wir sind fertig mit dem 4x4 Bauerschach, haben die Projektdokumentation fertiggestellt und den/die Lernbericht(e) geschrieben.|
 
 ## 1 Informieren
+
 
 
 
