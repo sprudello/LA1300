@@ -1,7 +1,5 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Doughnut
 
 Herzig, Angelov, Eser, *Burlet*
@@ -15,9 +13,6 @@ Herzig, Angelov, Eser, *Burlet*
 |       | 1.0.0   |Wir sind fertig mit dem 4x4 Bauerschach, haben die Projektdokumentation fertiggestellt und den/die Lernbericht(e) geschrieben.|
 
 ## 1 Informieren
-
-
-
 
 ### 1.1 Ihr Projekt
 
@@ -39,7 +34,6 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |10|Kann|Funktion|Als User möchte ich, eine Spielzug rückgänig machen können.|
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -66,7 +60,7 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |03.15|Programm wurde gestartet, König befindet sich auf Feld 2D, König angeklickt|Aufleuchtendes Feld angeklickt|König verschwindet auf vorherigem Feld und ist auf dem neuen Feld.|
 |03.16|Programm wurde gestartet|König angeklickt|Diese Fiegur kann nicht bewegt werden.|
 |03.17|Programm wurde gestartet, König befindet sich auf Feld 2D, König angeklickt|Nichtaufleuchtendes Feld angeklickt|König bleibt stehen, fehlermeldung "Dieser Spielzug ist nicht möglich".|
-|04.||||
+|04.1|Bauer steht vor einem anderen Bauern und klickt auf seinen eigenen Bauer.|User klickt auf gegnerischen Bauer|Gegnerischer Bauer wird mit eigenem ersetzt.|
 |05.||||
 |06.||||
 |07.1||||
@@ -77,8 +71,6 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |09.2||||
 |10.1||||
 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -121,13 +113,6 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 |10.C|13.12.2022|Herzig|||
 
 
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
 Das Brett ist in einem 2D String Array.
@@ -138,7 +123,6 @@ Das Brett ist in einem 2D String Array.
 | ---- | ----- | --------- | ------------- | ----------------- |
 | AP 1-4 | 13.12 | Alle | - | 4 Tage |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -146,10 +130,17 @@ Das Brett ist in einem 2D String Array.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |20.12.2022|OK|Julius V. Burlet|
+|2.1|"|OK|"|
+|3.1|"|OK aber leuchtet nicht auf, sondern verschwindet.|"|
+|3.2|"|OK es gibt, aber keine aufleuchtenden Felder|"|
+|3.3 - 3.17|"|Nicht, ausführbar, da wir keine dieser Figuren haben|"|
+|4.1|"|OK|"|
+|ab US 5|"|Nicht ausführbar, da wir diese Features nicht haben|"|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Da wir praktisch nichts erreicht haben, was wir wollten, konnten wir dementsprechend nur einen winzigen Teil der TC durchführen, 
+jedoch sind die, die durchführbar sind OK von der Funktionalität. Die grössten mankos sind dort, dass animationen etc. nicht drinn sind.
+
 
 ## 6 Auswerten
 
