@@ -72,7 +72,7 @@ Am Ende konnten wir relativ schnell, dieses Produkt erstellen.
 Das lief nicht so gut:
 Die Zusammenarbeit lief gar nicht gut, die Aufteilung war nicht klar und niemand wusste so recht, was er/sie machen sollte.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
 ****
 Beim nächsten Mal sollte man als Gruppenleiter nochmals nachfragen, ob alles klar ist und ob man versteht, was man machen muss.
 Als Gruppenmitglied sollte man den Gruppenleiter, bei Unklarheiten, allenfalls fragen, ob man das, was man aufgetragen bekommen hat, richtig verstanden hat.
