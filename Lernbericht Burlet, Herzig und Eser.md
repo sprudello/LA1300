@@ -1,6 +1,6 @@
 # Lern-Bericht
 
-Eser, Herzig und Burlet
+Eser, Herzig, Angelov und Burlet
 
 ## Einleitung
 
