@@ -9,10 +9,10 @@ Herzig, Angelov, Eser, *Burlet*
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | Projektdoku IPE gmacht|
-|       | 0.0.2|Wir haben uns mit WinForms befasst. Sind dabei aber meist kläglich gescheitert.|
-|       |0.0.3|wir haben versucht einen 2D array zu visualisieren, was nicht funktioniert hat.|
-||0.0.4|Wir haben es mit buttons gemacht und haben ein 4x4 bauerschach gemacht.|
-||1.0.0|Wir sind fertig mit dem 4x4 Bauerschach, haben die Projektdokumentation fertiggestellt und den/die Lernbericht(e) geschrieben.|
+|       | 0.0.2   |Wir haben uns mit WinForms befasst. Sind dabei aber meist kläglich gescheitert.|
+|       | 0.0.3   |Wir haben versucht einen 2D array zu visualisieren, was nicht funktioniert hat.|
+|       | 0.0.4   |Wir haben es mit buttons gemacht und haben ein 4x4 bauerschach gemacht.|
+|       | 1.0.0   |Wir sind fertig mit dem 4x4 Bauerschach, haben die Projektdokumentation fertiggestellt und den/die Lernbericht(e) geschrieben.|
 
 ## 1 Informieren
 
@@ -42,6 +42,8 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
+
+**Viele der Testfälle können nicht ausgeführt werden, da wir viele der Ziele nicht erreicht haben.**
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
@@ -87,16 +89,16 @@ Unser Projekt ist es, ein Schach zu programmieren, welches man zu zweit spielen 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1.A|06.12.2022|Angelov|||
-|1.B|06.12.2022|Angelov|||
+|1.A|06.12.2022|Angelov|Das erstellen eines Schachbretts mit einem 2D Array||
+|1.B|06.12.2022|Angelov|Den Feldern die Möglichkeit zu geben sie zu benutzen||
 |1.C|06.12.2022|Angelov|||
-|2.A|06.12.2022|Herzig|||
-|2.B|06.12.2022|Herzig|||
-|2.C|06.12.2022|Herzig|||
-|3.A|13.12.2022|Burlet|||
-|3.B|13.12.2022|Burlet|||
+|2.A|06.12.2022|Herzig|Das erstellen eines festen Startpunkes der Spielfieguren||
+|2.B|06.12.2022|Herzig|Das bennenen einer bewegbarn Spilfiegur||
+|2.C|06.12.2022|Herzig|Der erstellten Spielfigur eine Textur geben||
+|3.A|13.12.2022|Burlet|Die Bewegung einer Spielfigur in die tat umsetzen||
+|3.B|13.12.2022|Burlet|Eine geh einschrenkung bei verschiedenen Spielfiguren||
 |3.C|13.12.2022|Burlet|||
-|4.A|06.12.2022|Eser|||
+|4.A|06.12.2022|Eser|Das Ermöglichen einer Spilfigur eine andere Spilfigur zu nehmen||
 |4.B|06.12.2022|Eser|||
 |4.C|06.12.2022|Eser|||
 |5.A|06.12.2022|Veljkovic|||
@@ -134,8 +136,7 @@ Das Brett ist in einem 2D String Array.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| AP 1-4 | 13.12 | Alle | - | 4 Tage |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
@@ -149,15 +150,6 @@ Das Brett ist in einem 2D String Array.
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
